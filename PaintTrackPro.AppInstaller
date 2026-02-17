@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<AppInstaller>
+  <MainPackage>
+    <PackageIdentifier Name="PaintTrackPro" Publisher="CN=SafariColors"/>
+    <Version>1.0.25</Version>
+    <Uri>https://jenpuayoung.github.io/ApplicationInstaller/PaintTrackPro.1.0.25.msix</Uri>
+  </MainPackage>
+  <UpdateSettings>
+    <OnLaunch UpdateBlocksActivation="false"/>
+  </UpdateSettings>
+</AppInstaller>
