@@ -1,0 +1,2 @@
+*.appinstaller text eol=lf
+*.appinstaller linguist-language=XML
