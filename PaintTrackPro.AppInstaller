@@ -2,8 +2,8 @@
 <AppInstaller>
   <MainPackage>
     <PackageIdentifier Name="PaintTrackPro" Publisher="CN=SafariColors"/>
-    <Version>1.0.26</Version>
-    <Uri>https://jenpuayoung.github.io/ApplicationInstaller/PaintTrackPro.1.0.26.msix</Uri>
+    <Version>1.0.27</Version>
+    <Uri>https://jenpuayoung.github.io/ApplicationInstaller/PaintTrackPro.1.0.27.msix</Uri>
   </MainPackage>
   <UpdateSettings>
     <OnLaunch UpdateBlocksActivation="false"/>
