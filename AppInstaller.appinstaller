@@ -2,8 +2,8 @@
 <AppInstaller>
   <MainPackage>
     <PackageIdentifier Name="PaintTrackPro" Publisher="CN=PaintTrackerPro"/>
-    <Version>1.0.21</Version>
-    <Uri>https://github.com/kibuts7/GY_PaintTrackPro_Shared/releases/download/refs/tags/v1.0.21/PaintTrackPro.1.0.21.msix</Uri>
+    <Version>1.0.22</Version>
+    <Uri>https://github.com/kibuts7/GY_PaintTrackPro_Shared/releases/download/refs/tags/v1.0.22/PaintTrackPro.1.0.22.msix</Uri>
   </MainPackage>
   <UpdateSettings>
     <OnLaunch UpdateBlocksActivation="false"/>
