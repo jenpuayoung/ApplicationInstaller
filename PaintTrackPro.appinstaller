@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?>
 <AppInstaller
     Uri="https://jenpuayoung.github.io/ApplicationInstaller/PaintTrackPro.appinstaller"
-    Version="1.0.0.0"
+    Version="1.0.1.0"
     xmlns="http://schemas.microsoft.com/appx/appinstaller/2021">
 
   <MainPackage
       Name="PaintTrackPro"
       Publisher="CN=SafariColors"
-      Version="1.0.0.0"
-      Uri="https://jenpuayoung.github.io/ApplicationInstaller/PaintTrackPro.1.0.0.0.msix" />
+      Version="1.0.1.0"
+      Uri="https://jenpuayoung.github.io/ApplicationInstaller/PaintTrackPro.1.0.1.0.msix" />
 
 <SecureSettings>
     <UpdateUris>
