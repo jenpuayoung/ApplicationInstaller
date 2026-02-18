@@ -1,4 +1,4 @@
 {
-  "version": "1.0.40",
-  "installer": "PaintTrackerPro_1.0.40.msix"
+  "Version": "1.0.40",
+  "Installer": "PaintTrackerPro_1.0.40.msix"
 }
