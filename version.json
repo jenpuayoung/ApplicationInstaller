@@ -1,5 +1,5 @@
 {
-  "Version": "1.0.1.1",
+  "Version": "1.0.0.0",
   "Installer": "PaintTrackPro.1.0.1.1.msix",
-  "MacInstaller": "PaintTrackPro.1.0.1.1.pkg"
+  "MacInstaller": "PaintTrackPro.1.0.0.0.pkg"
 }
